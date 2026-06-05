@@ -1,13 +1,28 @@
-## Hi there 👋
+### Hey there, I'm **Ojus**! A student for now
 
-I'm an aspiring Computer Science student with a strong focus on community tools and interactive development.
+---
 
-- 🔭 **I’m currently working on** ... custom Discord bots featuring complex slash commands, automated log channels, and user engagement systems.
-- 🌱 **I’m currently learning** ... how to integrate dynamic media (like interactive mini-games and GIFs) to boost daily user retention.
+### 📈 Some of my GitHub stats:
+
+![Profile Views](https://komarev.com/ghpvc/?username=ojussharma07&color=0e75b6&style=flat-square&label=Profile+views)
+
+<br>
+
+### 📬 Say hello:
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F4E15E?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sharmaojus07/) [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sharmao_07)
+
+<br>
+
+### 👨‍💻 About Me:
+
+- 🔭 **I’m currently working on** ... improving programming languages skills and learning something new everyday.
+- 🌱 **I’m currently learning** ... new programming skills and expanding my tech stack.
 - 👯 **I’m looking to collaborate on** ... open source moderation tools or creative API integrations.
-- 💬 **Ask me about** ... Discord bot architecture, tech stacks, or my plans for learning more about Computer Science.
-- 📫 **How to reach me:** ... 
-- ⚡ **Fun fact:** ... I am easily distracted by anything even remotely related to cats.
+- 💬 **Ask me about** ... Discord bot architecture, tech stacks, or my plans for future!
+- ⚡ **Fun fact:** ... I am easily distracted by anything even remotely related to cats!
+  
+<br>
 
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
