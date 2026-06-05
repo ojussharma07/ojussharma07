@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-F4E15E?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sharmaojus07/) [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sharmao_07)
 
 <br>
-
 ### 👨‍💻 About Me:
 
 - 🔭 **I’m currently working on** ... improving programming languages skills and learning something new everyday.
