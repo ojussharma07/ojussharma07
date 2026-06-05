@@ -5,7 +5,6 @@
 ### 📈 Some of my GitHub stats:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ojussharma07&color=0e75b6&style=flat-square&label=Profile+views)
-
 <br>
 
 ### 📬 Say hello:
